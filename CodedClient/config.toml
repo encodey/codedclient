@@ -1,0 +1,85 @@
+
+[general]
+
+	[general.rpc]
+		discord_rpc = true
+
+[nether]
+
+	[nether.general]
+		flares_hyp_timer = true
+		totem_of_corruption_display = true
+		block_life_tap_killing = false
+		vanquisher_chat_alert = true
+
+	[nether.flares]
+		flares_hyp_timer = false
+		esp_flares_in_hyp_range = true
+
+	[nether.misc]
+		lego_building_sounds_for_balista = false
+		lego_sound_volume = 1
+
+[discord]
+
+	[discord.rpc]
+		discord_rpc = true
+
+[slayer]
+
+	[slayer.general]
+		slayer_progress_display = false
+
+[f7_boss]
+
+	[f7_boss.p1]
+		babyproof_crystal = true
+
+[velo]
+
+	[velo.wkeybind]
+		velocity_key = "b"
+
+[velocity]
+
+	[velocity.slime_hat]
+		re-equip_slime_hat = false
+		remove_slime_hat_near_lava = true
+
+	[velocity.velocity]
+		enable_velocity_toggle = false
+
+	[velocity.jerry]
+		vertical_jerry = false
+		vertical_jerry_only_with_slime_hat = false
+
+[mining]
+
+	[mining.comms]
+		auto_claim_commissions = false
+
+	[mining.powder]
+		powder_display = false
+
+[dc]
+
+	[dc.warpback]
+		enable_auto_warp_back = false
+
+	[dc.dc]
+		enable_auto_dc = false
+
+[bloodskip]
+
+	[bloodskip.warpback]
+		enable_auto_warp_back = false
+
+	[bloodskip.dc]
+		enable_auto_dc = false
+
+[qol]
+
+	[qol.esp]
+		color_esp = false
+		player_esp = false
+
